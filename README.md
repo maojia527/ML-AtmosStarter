@@ -23,7 +23,6 @@ It covers the full workflow: data preprocessing, model training, evaluation, and
 |-----------------------|------------------------------------------------|
 | `1_quick_start/`       | Quick example code and sample data            |
 | `2_basic_tools/`       | Utility scripts and visualization tools       |
-| `3_CDO_tutorial/`      | Tutorial on NetCDF processing using CDO       |
 | `reference/`           | Papers, literature, and related resources     |
 | `ML-AtmosStarter.pdf`  | An tutorial: ML basics and instructions       |
 | `environment.yml`      | Conda environment setup file                  |
