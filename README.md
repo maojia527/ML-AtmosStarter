@@ -53,7 +53,7 @@ conda activate atmos-ml
 
 3. **Run the quick start notebook:**
 
-In Jupyter Notebook or JupyterLab to walk through the full ML workflow: _**1_quick_start/run_pipeline.ipynb**_
+In Jupyter Notebook or JupyterLab to walk through the full ML workflow: _**1_quick_start/model_building_workflow.ipynb**_
 
 
 
